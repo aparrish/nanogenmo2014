@@ -3,7 +3,7 @@
 I'm [Allison](http://www.decontextualize.com).
 
 This is the repository for my [NaNoGenMo 2014](https://github.com/dariusk/NaNoGenMo-2014/)
-entry, *I Waded In Clear Water* ([pdf](http://aparrish.github.io/nanogenmo2014/final.pdf).
+entry, *I Waded In Clear Water* ([pdf](http://aparrish.github.io/nanogenmo2014/final.pdf)).
 
 ##The procedure
 
