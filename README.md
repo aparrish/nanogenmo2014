@@ -2,19 +2,8 @@
 
 I'm [Allison](http://www.decontextualize.com).
 
-Here's the Python code I wrote to generate my NaNoGenMo 2014 entry. It's very
-rough and hacky but I wanted to make it available to any curious onlookers.
-
-Usage:
-
-	$ pip install -r requirements.txt
-	$ python extract.py <dreams.txt >draft.tex
-
-This generates a LaTeX file, which you can render with the LaTeX tools of
-your choice! (I used [TeXShop](http://pages.uoregon.edu/koch/texshop/).)
-
-The file `final.tex` contains my final output as submitted to NaNoGenMo, and
-`final.pdf` is the rendered PDF.
+This is the repository for my [NaNoGenMo 2014](https://github.com/dariusk/NaNoGenMo-2014/)
+entry, *I Waded In Clear Water* ([pdf](http://aparrish.github.io/nanogenmo2014/final.pdf).
 
 ##The procedure
 
@@ -49,6 +38,23 @@ elaborations are generated using information in
 `HasProperty`, and `AtLocation` relations) and
 [WordNet](http://wordnet.princeton.edu/) (for part-of-speech checks, synonyms,
 and antonyms).
+
+##This repository
+
+This repository contains the Python code I wrote to generate my NaNoGenMo 2014
+entry. It's very rough and hacky but I wanted to make it available to any
+curious onlookers.
+
+Usage:
+
+	$ pip install -r requirements.txt
+	$ python extract.py <dreams.txt >draft.tex
+
+This generates a LaTeX file, which you can render with the LaTeX tools of
+your choice! (I used [TeXShop](http://pages.uoregon.edu/koch/texshop/).)
+
+The file `final.tex` contains my final output as submitted to NaNoGenMo, and
+`final.pdf` is the rendered PDF.
 
 ##License
 
