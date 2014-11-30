@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+venv
+elaborate_cache.sqlite
+final.aux
+final.idx
+final.ilg
+final.ind
+final.log

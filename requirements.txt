@@ -1,0 +1,6 @@
+Jinja2==2.7.3
+MarkupSafe==0.23
+Pattern==2.6
+requests==2.4.3
+requests-cache==0.4.6
+wsgiref==0.1.2
